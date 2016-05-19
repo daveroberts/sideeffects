@@ -1,0 +1,2 @@
+Main-Class: foo.HelloWorld
+Class-Path: ../lib/scala-library.jar
