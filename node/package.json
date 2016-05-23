@@ -1,0 +1,14 @@
+{
+  "name": "side-effects",
+  "version": "1.0.0",
+  "description": "A method to deal with side effects in functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Roberts",
+  "license": "MIT",
+   "bin": {
+     "side-effects":"./index.js"
+   }
+}

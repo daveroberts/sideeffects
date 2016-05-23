@@ -19,6 +19,7 @@ end
 puts "Calling logic as a pure function"
 result = logic("param1", "param2")
 puts "Result is #{result}"
+puts ""
 
 puts "Calling logic as a regular function"
 result = logic(
