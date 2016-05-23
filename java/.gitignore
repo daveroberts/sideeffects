@@ -1,0 +1,3 @@
+jar/*.jar
+obj/*
+!obj/.gitkeep
